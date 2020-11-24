@@ -1,0 +1,22 @@
+{
+  "name": "web_forum",
+  "version": "1.0.0",
+  "description": "Basic Website Forum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lewis98/Portfolio_ForumSite.git"
+  },
+  "author": "Lewis Stokes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lewis98/Portfolio_ForumSite/issues"
+  },
+  "homepage": "https://github.com/Lewis98/Portfolio_ForumSite#readme",
+  "dependencies": {
+    "koa": "^2.11.0"
+  }
+}
